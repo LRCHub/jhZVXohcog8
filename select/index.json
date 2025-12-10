@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DO U",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2025-12-10T12:03:55.818736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Do U Want It",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/01_How_Do_U_Want_It_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Do U Love Me",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Do_U_Love_Me_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do U Ever Happen",
+      "artist": "Laurel Halo",
+      "has_synced": false,
+      "path": "select/03_Do_U_Ever_Happen_Laurel_Halo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get Bigger / Do U Luv",
+      "artist": "NxWorries",
+      "has_synced": true,
+      "path": "select/04_Get_Bigger___Do_U_Luv_NxWorries.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get Bigger \u0000 Do U Luv",
+      "artist": "NxWorries",
+      "has_synced": true,
+      "path": "select/05_Get_Bigger_\u0000_Do_U_Luv_NxWorries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Who Do U Appreciate",
+      "artist": "Deaton Chris Anthony",
+      "has_synced": true,
+      "path": "select/06_Who_Do_U_Appreciate_Deaton_Chris_Anthony.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tell Me Do U Wanna",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/07_Tell_Me_Do_U_Wanna_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me Do U Wanna (Interlude)",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/08_Tell_Me_Do_U_Wanna_(Interlude)_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "do u care, if i stare?",
+      "artist": "SEBii",
+      "has_synced": true,
+      "path": "select/09_do_u_care,_if_i_stare_SEBii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Do U Dream, Little Caesar?",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": false,
+      "path": "select/10_How_Do_U_Dream,_Little_Caesar_Sigue_Sigue_Sputnik.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What Do U Want",
+      "artist": "Cassie",
+      "has_synced": true,
+      "path": "select/11_What_Do_U_Want_Cassie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What Do U Want (feat. Pretty Boys)",
+      "artist": "Cassie",
+      "has_synced": true,
+      "path": "select/12_What_Do_U_Want_(feat._Pretty_Boys)_Cassie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do U Lie?",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/13_Do_U_Lie_Prince.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do U Lie?",
+      "artist": "The Revolution",
+      "has_synced": false,
+      "path": "select/14_Do_U_Lie_The_Revolution.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What Do U Want Me 2 Do?",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/15_What_Do_U_Want_Me_2_Do_Prince.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Do U Remember the Time",
+      "artist": "JMSN",
+      "has_synced": true,
+      "path": "select/16_Do_U_Remember_the_Time_JMSN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DO U",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_DO_U_Takanashi_Kiara.txt"
+    }
+  ]
+}
